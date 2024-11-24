@@ -61,11 +61,6 @@ hash = "1eaa2e7fa846a13249a074859bce3a1aee52fa3069dc1d301f1ffd5b8e05d945"
 metafile = true
 
 [[files]]
-file = "mods/create-curios-jetpack.pw.toml"
-hash = "1a36c8f40b9b3f3bbcafda8fb1ba2ef6a3140459b0e9c2b4349694fc21b648a1"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
 metafile = true
