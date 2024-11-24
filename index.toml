@@ -241,6 +241,11 @@ hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "731af9b877b4c93ebb80b6939ab8765982cf9a1fd205b726b3c6e2bd2efc59f1"
 metafile = true
