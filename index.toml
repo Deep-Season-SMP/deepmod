@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
 file = "mods/argonauts.pw.toml"
 hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
 metafile = true
@@ -46,8 +51,18 @@ hash = "b2f084d89589870c6b4a6987f4f579ab0e771c3afb1e442f9507be21cdc115a1"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "ecb7daf5d4926138a5f205c5a8b4a4031e4d29dafcf0ca4d630d74c0cbc71a7d"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "1eaa2e7fa846a13249a074859bce3a1aee52fa3069dc1d301f1ffd5b8e05d945"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "1a36c8f40b9b3f3bbcafda8fb1ba2ef6a3140459b0e9c2b4349694fc21b648a1"
 metafile = true
 
 [[files]]
@@ -66,6 +81,11 @@ hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "cee3b68e12a23fe32c2f0d28407abe7d0032c532acbceb0c5889bdb6cb2777ee"
+metafile = true
+
+[[files]]
 file = "mods/create-guardian-beam-defense.pw.toml"
 hash = "27b036f3cb61f6471072a7c34c33a83f42d03d4b537b2b970a4511481664d506"
 metafile = true
@@ -81,6 +101,16 @@ hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
 metafile = true
 
 [[files]]
+file = "mods/create-ratatouille.pw.toml"
+hash = "e87b44fc7424334724b7c002211c0eedcb9483cffb756a57c59b65330e566c11"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "2bbbd59c8221efb5c7b66378e8837dc34e255f75653e001d1ab9bedc89e63961"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
 metafile = true
@@ -91,8 +121,18 @@ hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
 metafile = true
 
 [[files]]
+file = "mods/create-tank-defenses.pw.toml"
+hash = "11ba924107b18fc4184ea4ad1b06028edd97f636168029410edf1acffedbb6bc"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "1ea4e0f523d42b19dc47c558c82b554d26b3d0a622eb886e0f30ca502a2a4580"
+metafile = true
+
+[[files]]
+file = "mods/create-train-perspective.pw.toml"
+hash = "71df358fb40cb3d57e937d4c6d3fb4e52df7588ff80fde479685bc194ca5d2f7"
 metafile = true
 
 [[files]]
@@ -106,6 +146,16 @@ hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-village.pw.toml"
+hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -116,6 +166,11 @@ hash = "b922bf1accaec299a669b1915a600a8cdaad3baadffa4b509633a83ad4c020a1"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
 metafile = true
@@ -123,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "f3d339c1821af9e9e3a97a93a7f15bab1a93cc71ca4d19c121f02d30d25fd826"
 metafile = true
 
 [[files]]
@@ -146,6 +206,11 @@ hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "ce5224b0f7ff2789f11b6415a274dce1db7e9870b3d39160987f4838ce0e5d37"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
 metafile = true
@@ -153,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/prometheus.pw.toml"
 hash = "96679a0926fb0aeb8afc3c22c11d0adbe947e3e3848125221265027b144ad0af"
+metafile = true
+
+[[files]]
+file = "mods/protection-pixel.pw.toml"
+hash = "b4faec030fb5cbf020c6270f9b0a149279a52a0c320485079a07dac83c1530f4"
 metafile = true
 
 [[files]]
@@ -178,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
 metafile = true
 
 [[files]]

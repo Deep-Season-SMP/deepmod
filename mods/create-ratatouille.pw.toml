@@ -1,0 +1,13 @@
+name = "Create Ratatouille"
+filename = "create_ratatouille-1.20.1-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XM0ifg8q/versions/AjLlDTra/create_ratatouille-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "529b9c07717bf53ead8f09a32506dc5debff0c4e1cabac11d61330a166c5005eae71181de0c4cb677b8c90cff6e8fe91388f7f3bf88d414ee67912e1cfbc581d"
+
+[update]
+[update.modrinth]
+mod-id = "XM0ifg8q"
+version = "AjLlDTra"

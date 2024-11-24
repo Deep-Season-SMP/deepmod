@@ -1,0 +1,13 @@
+name = "Create: Tank Defenses"
+filename = "CreateTankDefenses v0.71 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/21JTaupZ/versions/kHxzOOag/CreateTankDefenses%20v0.71%20-%201.20.1.jar"
+hash-format = "sha512"
+hash = "a61416981fd9fc0922f26d4e46648907827b4bc76e894f6320acd6201f00c6830f47c8da1dd92595de17dcc4b433447a50957704f870cd18257113976571f54a"
+
+[update]
+[update.modrinth]
+mod-id = "21JTaupZ"
+version = "kHxzOOag"

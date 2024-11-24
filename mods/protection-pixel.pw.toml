@@ -1,0 +1,13 @@
+name = "Create: Protection Pixel"
+filename = "protection_pixel-1.0.9-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l1FZziEx/versions/Y95sDtXa/protection_pixel-1.0.9-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1b5ad0c763c63c0c8154120be7ecb243a5a9437d14ff7fa28102fd005114496972a97e5c12439953063a7c1296ab2bd1e79bd116076a57dbb92278c68a163fd4"
+
+[update]
+[update.modrinth]
+mod-id = "l1FZziEx"
+version = "Y95sDtXa"
