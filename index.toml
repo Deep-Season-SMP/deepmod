@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "a9bdcee5224db8609a84661e0b0f483661e171e35b6087904a5ba0f9cf9556f3"
+hash = "24b3bdb6abad859aa1232c7bc736734c1b031a584ba68bec33db1a9a6272d085"
 metafile = true
 
 [[files]]
