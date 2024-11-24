@@ -46,6 +46,11 @@ hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "b2f084d89589870c6b4a6987f4f579ab0e771c3afb1e442f9507be21cdc115a1"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "1eaa2e7fa846a13249a074859bce3a1aee52fa3069dc1d301f1ffd5b8e05d945"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "35524f1715e708f12c007193939b1a5b58cc6fadb32af18e840e6fd663f7bd9d"
 metafile = true
 
 [[files]]
@@ -196,6 +206,11 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
@@ -223,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
@@ -258,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
 hash = "9f20788151dc794b58c9dc001ffb74adfee4cd477508dace583feb6721e7d76d"
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "7f0719437fa714e17236c76f62ee2b08ad23782d06c52253c32a21bb6890d628"
+metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"

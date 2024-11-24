@@ -1,0 +1,13 @@
+name = "Create Cobblestone"
+filename = "createcobblestone-1.4.1+forge-1.20.1-73.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihpnEd80/versions/HsAb44aC/createcobblestone-1.4.1%2Bforge-1.20.1-73.jar"
+hash-format = "sha512"
+hash = "f57ebe83df966b1c83686ca03dc23ce5520f21cab415e4ed38eefd2e62622f80a70f02c89600982053e6beac69e0b8688442da46a71570cd65b76460293a8b33"
+
+[update]
+[update.modrinth]
+mod-id = "ihpnEd80"
+version = "HsAb44aC"
