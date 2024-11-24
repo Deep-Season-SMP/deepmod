@@ -71,6 +71,11 @@ hash = "35524f1715e708f12c007193939b1a5b58cc6fadb32af18e840e6fd663f7bd9d"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "877bf4fd893cf72c3ca03bd7d6869e38d1a2798731adb4a6a8ccae1714c8380d"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
+hash = "e04d43978f430d2cf073f07f1a1bfb681af0ee203c60f9f70adfbd185e299af4"
 metafile = true
 
 [[files]]
