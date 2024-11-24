@@ -96,11 +96,6 @@ hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
 metafile = true
 
 [[files]]
-file = "mods/create-ratatouille.pw.toml"
-hash = "e87b44fc7424334724b7c002211c0eedcb9483cffb756a57c59b65330e566c11"
-metafile = true
-
-[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "2bbbd59c8221efb5c7b66378e8837dc34e255f75653e001d1ab9bedc89e63961"
 metafile = true
@@ -259,6 +254,10 @@ metafile = true
 file = "mods/valkyrien-skies.pw.toml"
 hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
 metafile = true
+
+[[files]]
+file = "mods/valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
+hash = "9f20788151dc794b58c9dc001ffb74adfee4cd477508dace583feb6721e7d76d"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
