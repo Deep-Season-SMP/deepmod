@@ -136,11 +136,6 @@ hash = "1ea4e0f523d42b19dc47c558c82b554d26b3d0a622eb886e0f30ca502a2a4580"
 metafile = true
 
 [[files]]
-file = "mods/create-train-perspective.pw.toml"
-hash = "71df358fb40cb3d57e937d4c6d3fb4e52df7588ff80fde479685bc194ca5d2f7"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 metafile = true
