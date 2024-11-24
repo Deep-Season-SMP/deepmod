@@ -21,6 +21,11 @@ hash = "735631eac59208282e2e9487466ba3c18e42388f1b521b30fc8848a2b47fb229"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "5de504e9e9cc5d45b783b1035d77501d5376804c1e0ef7db29e3800d18b02e60"
+metafile = true
+
+[[files]]
 file = "mods/cadmus.pw.toml"
 hash = "1f72381616a5bfc9b6f461a8ff3b335a5c4dccac953f0c9e399d1b98ceb2114a"
 metafile = true
@@ -106,6 +111,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "b922bf1accaec299a669b1915a600a8cdaad3baadffa4b509633a83ad4c020a1"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
 metafile = true
@@ -118,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "7f6c0ca162ebadc819fa2fe5d925daec6144d3480a6d75c769a72b8b46b78f9f"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "3c4797a9ade2ad41b4163a8838ad95b27f2b07906bf44f1c05a04c822e44719b"
 metafile = true
 
 [[files]]
