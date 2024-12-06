@@ -136,11 +136,6 @@ hash = "1ea4e0f523d42b19dc47c558c82b554d26b3d0a622eb886e0f30ca502a2a4580"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
 metafile = true
@@ -268,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
 metafile = true
 
 [[files]]
