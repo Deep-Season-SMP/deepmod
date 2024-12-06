@@ -1,0 +1,7 @@
+name = "valkyrien-skies+funnelfix"
+filename = "valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/f91329ff41dddab484b65632ed43fb8159b4f409/mods/valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
+hash-format = "sha256"
+hash = "9f20788151dc794b58c9dc001ffb74adfee4cd477508dace583feb6721e7d76d"

@@ -6,11 +6,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
@@ -31,11 +26,6 @@ hash = "5de504e9e9cc5d45b783b1035d77501d5376804c1e0ef7db29e3800d18b02e60"
 metafile = true
 
 [[files]]
-file = "mods/cadmus.pw.toml"
-hash = "1f72381616a5bfc9b6f461a8ff3b335a5c4dccac953f0c9e399d1b98ceb2114a"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
@@ -43,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "4a929ff4256569a2949067a26101390eccb22a05742131609463eb3e52d1d530"
 metafile = true
 
 [[files]]
@@ -54,6 +49,10 @@ metafile = true
 file = "mods/copycats.pw.toml"
 hash = "b2f084d89589870c6b4a6987f4f579ab0e771c3afb1e442f9507be21cdc115a1"
 metafile = true
+
+[[files]]
+file = "mods/create-1.20.1-0.5.1.j+test.j.jar"
+hash = "a54e68bc450748ee553e51f10a6860836472041f2ee56d31dddd5c4499a4d034"
 
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
@@ -111,6 +110,21 @@ hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
 metafile = true
 
 [[files]]
+file = "mods/create-optical.pw.toml"
+hash = "7dca9a704bfe6bec63cf4b5d5274b318109e43ca915b540fde07a748fa2f1bac"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f71550f98704bdda403df05c5ac5148a9bcd685825c60d46c53938049a86bb74"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "ef2f8f90ea5266e3fc77817c71a3a955faadff0c9fba71225f69d68d996886b8"
+metafile = true
+
+[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "2bbbd59c8221efb5c7b66378e8837dc34e255f75653e001d1ab9bedc89e63961"
 metafile = true
@@ -136,6 +150,11 @@ hash = "1ea4e0f523d42b19dc47c558c82b554d26b3d0a622eb886e0f30ca502a2a4580"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "2cc0dd1257d4194a08185b65cabaee6dfbca23c65f878b8ab41994b0247afc89"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
 metafile = true
@@ -146,8 +165,18 @@ hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "8690e242621d9ca8101f05b3ddca11e5257ef51319b5d1e6b388252acc4c0d15"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-village.pw.toml"
 hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "603325cf98346d90a6b68d79d051ef6993874854117a41b65ba2f30c2a779eaa"
 metafile = true
 
 [[files]]
@@ -181,8 +210,28 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "f3d339c1821af9e9e3a97a93a7f15bab1a93cc71ca4d19c121f02d30d25fd826"
+file = "mods/integrated-crafting.pw.toml"
+hash = "b21828d9b36aac294f870c987910aa5aa8ae09324541662ccc42e4beef5947f6"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "a0d1dd56b829b9b33f7c0192ad47adb0544375d45aaa221e1fd7750251692964"
+metafile = true
+
+[[files]]
+file = "mods/integrated-scripting.pw.toml"
+hash = "cff35abd21991a2f6d6c71632ddbb6633bb0affc42f590a2036eb59da7595df1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "5919e1aeedde26b6cb5edc1585756df79f7f4dbd05fe1d4082d9390e62d2322d"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "71b3f472ba4dcb3c456451ff0b78dbc9431a8340ef5f5beb4b90b6737f2eaf8a"
 metafile = true
 
 [[files]]
@@ -198,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
-metafile = true
-
-[[files]]
-file = "mods/mcef.pw.toml"
-hash = "24b3bdb6abad859aa1232c7bc736734c1b031a584ba68bec33db1a9a6272d085"
 metafile = true
 
 [[files]]
@@ -266,13 +310,13 @@ hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
-file = "mods/valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
-hash = "9f20788151dc794b58c9dc001ffb74adfee4cd477508dace583feb6721e7d76d"
+file = "mods/valkyrien-skies-funnelfix.pw.toml"
+hash = "acd0173457108f91c7000fa15c63f2da19bf072ac4ab01268979cdb22cc4c313"
+metafile = true
 
 [[files]]
-file = "mods/webdisplays.pw.toml"
-hash = "7f0719437fa714e17236c76f62ee2b08ad23782d06c52253c32a21bb6890d628"
-metafile = true
+file = "mods/valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
+hash = "9f20788151dc794b58c9dc001ffb74adfee4cd477508dace583feb6721e7d76d"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"

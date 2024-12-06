@@ -1,0 +1,7 @@
+name = "create"
+filename = "create-1.20.1-0.5.1.j+test.j.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/f91329ff41dddab484b65632ed43fb8159b4f409/mods/create-1.20.1-0.5.1.j+test.j.jar"
+hash-format = "sha256"
+hash = "a54e68bc450748ee553e51f10a6860836472041f2ee56d31dddd5c4499a4d034"

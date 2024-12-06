@@ -1,0 +1,13 @@
+name = " Integrated Crafting"
+filename = "IntegratedCrafting-1.20.1-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwpACdla/versions/sSoTtRmx/IntegratedCrafting-1.20.1-1.1.9.jar"
+hash-format = "sha512"
+hash = "da5c9853efd09902261b6405c6c365409a015e2d82b8f9491bbd720dea6416e01867a72da8c8279804a460ad3fb24e472c4ffec288825a5d27258b170c71f613"
+
+[update]
+[update.modrinth]
+mod-id = "qwpACdla"
+version = "sSoTtRmx"
