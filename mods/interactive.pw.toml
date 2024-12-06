@@ -1,0 +1,7 @@
+name = "interactive"
+filename = "create_interactive-1201-forge-1.0.2-beta.2.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/mods/create_interactive-1201-forge-1.0.2-beta.2.jar"
+hash-format = "sha256"
+hash = "838747869a6539dec83233deec322eb22286d1edba99dae01785f69600f17723"
