@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.pw.toml"
+hash = "08c546773bdeb12d68a2272d3c4b7e0c880b8c7fde1b28f8a54bfa883d9c2fc0"
+metafile = true
+
+[[files]]
+file = "config/create-jetpack-common.pw.toml"
+hash = "780e188a6e4a257830d5278d351bf532256c673a2bfb2c5af9281565b58137f6"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true

@@ -1,0 +1,7 @@
+name = "create_jetpack-common"
+filename = "create_jetpack-common.toml"
+
+[download]
+url = "https://raw.githubusercontent.com/Deep-Season-SMP/deepmod/refs/heads/master/config/create_jetpack-common.toml"
+hash-format = "sha256"
+hash = "55ced6adf3a4b644ccb0237a93484afd59db44b3914d360b0247db520e48b9bc"
