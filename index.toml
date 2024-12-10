@@ -280,6 +280,11 @@ hash = "b4faec030fb5cbf020c6270f9b0a149279a52a0c320485079a07dac83c1530f4"
 metafile = true
 
 [[files]]
+file = "mods/radium.pw.toml"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
