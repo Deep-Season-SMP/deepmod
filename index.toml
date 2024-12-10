@@ -344,6 +344,11 @@ file = "mods/valkyrienskies-120-2.3.1-beta.1+funnelfix.jar"
 hash = "9f20788151dc794b58c9dc001ffb74adfee4cd477508dace583feb6721e7d76d"
 
 [[files]]
+file = "mods/vmod.pw.toml"
+hash = "9f80da69b42fff9ac0c5eaa2c15be23ecaa9f79ba073fd0306e595c765b5c7d9"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
