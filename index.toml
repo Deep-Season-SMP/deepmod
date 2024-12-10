@@ -6,14 +6,26 @@ hash = "08c546773bdeb12d68a2272d3c4b7e0c880b8c7fde1b28f8a54bfa883d9c2fc0"
 metafile = true
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "5a9b347ed2a64638cc08300c0e5e953358103d8364cf3edbf5a4de2afd893959"
+
+[[files]]
 file = "config/create-jetpack-common.pw.toml"
 hash = "780e188a6e4a257830d5278d351bf532256c673a2bfb2c5af9281565b58137f6"
 metafile = true
 
 [[files]]
+file = "config/create_jetpack-common.toml"
+hash = "55ced6adf3a4b644ccb0237a93484afd59db44b3914d360b0247db520e48b9bc"
+
+[[files]]
 file = "config/createcobblestone-common.pw.toml"
 hash = "2e4896cf2c6275c966fa3ffb2cbb18665da6c8520a1d5232d49f203f25642802"
 metafile = true
+
+[[files]]
+file = "config/createcobblestone-common.toml"
+hash = "aec3dd6d67352f54ea5be5daa9eca75533c903ea1001178daf7fa5d0ebae98af"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -168,6 +180,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "2cc0dd1257d4194a08185b65cabaee6dfbca23c65f878b8ab41994b0247afc89"
 metafile = true
+
+[[files]]
+file = "mods/create_interactive-1201-forge-1.0.2-beta.2.jar"
+hash = "838747869a6539dec83233deec322eb22286d1edba99dae01785f69600f17723"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
