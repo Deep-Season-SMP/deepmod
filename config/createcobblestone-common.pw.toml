@@ -1,0 +1,7 @@
+name = "createcobblestone-common"
+filename = "createcobblestone-common.toml"
+
+[download]
+url = "https://raw.githubusercontent.com/Deep-Season-SMP/deepmod/refs/heads/master/config/createcobblestone-common.toml"
+hash-format = "sha256"
+hash = "aec3dd6d67352f54ea5be5daa9eca75533c903ea1001178daf7fa5d0ebae98af"

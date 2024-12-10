@@ -11,6 +11,11 @@ hash = "780e188a6e4a257830d5278d351bf532256c673a2bfb2c5af9281565b58137f6"
 metafile = true
 
 [[files]]
+file = "config/createcobblestone-common.pw.toml"
+hash = "2e4896cf2c6275c966fa3ffb2cbb18665da6c8520a1d5232d49f203f25642802"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
