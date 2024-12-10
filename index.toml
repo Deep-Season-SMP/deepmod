@@ -53,6 +53,11 @@ hash = "5de504e9e9cc5d45b783b1035d77501d5376804c1e0ef7db29e3800d18b02e60"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
@@ -177,6 +182,11 @@ hash = "1ea4e0f523d42b19dc47c558c82b554d26b3d0a622eb886e0f30ca502a2a4580"
 metafile = true
 
 [[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "55e67c679e9822614a6e27896561ad7da6e1372a53876fdf497a971794f0eb3a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "2cc0dd1257d4194a08185b65cabaee6dfbca23c65f878b8ab41994b0247afc89"
 metafile = true
@@ -221,6 +231,11 @@ hash = "b922bf1accaec299a669b1915a600a8cdaad3baadffa4b509633a83ad4c020a1"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+metafile = true
+
+[[files]]
 file = "mods/eureka.pw.toml"
 hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
 metafile = true
@@ -236,8 +251,18 @@ hash = "9a0ad748fc5db8eada0834d48c5101e3b76700031fd304d88176dfaabfeefa20"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "1484808760dad0e89dfbd3e3758b96dc9ecbb3d46fcec1489ac9d090213376c6"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
 metafile = true
 
 [[files]]
@@ -268,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/interactive.pw.toml"
 hash = "09b017116a867ef8f0ce71216f961b9deae2b5ae2eda18c007a92b4c0fab60c5"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "fd978b432d912e1b9cd943f7ab46972bde14148acec5ff25fea4a8a7c287153d"
 metafile = true
 
 [[files]]
@@ -303,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
