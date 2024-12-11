@@ -38,6 +38,11 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "51fc6770999b30492643e31053c99069fc0eee276ba6337dfc10e185a3681b8f"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "262483c4f54a8171396664e16917c2d2f9145db7f9052fac99aebfb53b40e3cb"
 metafile = true
@@ -70,6 +75,16 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "4a929ff4256569a2949067a26101390eccb22a05742131609463eb3e52d1d530"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "676ee5bd88705f102f3001375ce8a6c3624a404dc8700cf39535754af4c88fb2"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "254b42db83a940358fff7f8574e30582bde8655f47a4a96f9ff21cce39776f5e"
 metafile = true
 
 [[files]]
@@ -231,11 +246,6 @@ hash = "b922bf1accaec299a669b1915a600a8cdaad3baadffa4b509633a83ad4c020a1"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
-metafile = true
-
-[[files]]
 file = "mods/eureka.pw.toml"
 hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
 metafile = true
@@ -248,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9a0ad748fc5db8eada0834d48c5101e3b76700031fd304d88176dfaabfeefa20"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "39a4b0fa266d73cd6e328cea94a666ccc74e8f928beb5f7e1c83b9caea78a99c"
 metafile = true
 
 [[files]]
@@ -367,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
+hash = "8f5ede64231548255beb5b37ae2d136b653470e4ac17bc482a6fd6e9ab516aa1"
 metafile = true
 
 [[files]]
