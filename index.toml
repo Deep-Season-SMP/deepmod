@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.pw.toml"
-hash = "08c546773bdeb12d68a2272d3c4b7e0c880b8c7fde1b28f8a54bfa883d9c2fc0"
+hash = "7d73f2db15649b8882d697683e9ade6fdfda59916111443c2ea8dacc6e3630b3"
 metafile = true
 
 [[files]]
@@ -378,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-client.pw.toml"
+hash = "9891ff3efc4bc22a6d1987a621d7c59001a9e344a06b18cc46a5ef7e715ebd75"
 metafile = true
 
 [[files]]

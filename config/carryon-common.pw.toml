@@ -4,4 +4,4 @@ filename = "carryon-common.toml"
 [download]
 url = "https://raw.githubusercontent.com/Deep-Season-SMP/deepmod/refs/heads/master/config/carryon-common.toml"
 hash-format = "sha256"
-hash = "4553f580f79f9b374421f7c40908e1354a0e4475b5dcd546dddd95b5b63cb12f"
+hash = "5A9B347ED2A64638CC08300C0E5E953358103D8364CF3EDBF5A4DE2AFD893959"
