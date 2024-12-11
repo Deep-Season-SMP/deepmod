@@ -98,6 +98,11 @@ hash = "b2f084d89589870c6b4a6987f4f579ab0e771c3afb1e442f9507be21cdc115a1"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "8ee5869a40cb52aa1902ff9e9cd1ccba0e5277e1f53b063edd957a449cd256f9"
+metafile = true
+
+[[files]]
 file = "mods/create-1.20.1-0.5.1.j+test.j.jar"
 hash = "a54e68bc450748ee553e51f10a6860836472041f2ee56d31dddd5c4499a4d034"
 
