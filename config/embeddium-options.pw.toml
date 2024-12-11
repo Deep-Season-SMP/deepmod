@@ -1,0 +1,7 @@
+name = "embeddium-options"
+filename = "embeddium-options.json"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/config/embeddium-options.json"
+hash-format = "sha256"
+hash = "1e4739675f1b835bd30752ba9959bcea335a2200110ba6491e290564687e0561"

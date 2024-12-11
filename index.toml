@@ -28,6 +28,11 @@ file = "config/createcobblestone-common.toml"
 hash = "aec3dd6d67352f54ea5be5daa9eca75533c903ea1001178daf7fa5d0ebae98af"
 
 [[files]]
+file = "config/embeddium-options.pw.toml"
+hash = "47c7ca5e3505df849a9c17def7b9bd1278e51a5665202443ef323d05fc654851"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
