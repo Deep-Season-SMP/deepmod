@@ -78,11 +78,6 @@ hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "4a929ff4256569a2949067a26101390eccb22a05742131609463eb3e52d1d530"
-metafile = true
-
-[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "676ee5bd88705f102f3001375ce8a6c3624a404dc8700cf39535754af4c88fb2"
 metafile = true
@@ -226,11 +221,6 @@ hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
 
 [[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "8690e242621d9ca8101f05b3ddca11e5257ef51319b5d1e6b388252acc4c0d15"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-village.pw.toml"
 hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
 metafile = true
@@ -283,31 +273,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "b21828d9b36aac294f870c987910aa5aa8ae09324541662ccc42e4beef5947f6"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "a0d1dd56b829b9b33f7c0192ad47adb0544375d45aaa221e1fd7750251692964"
-metafile = true
-
-[[files]]
-file = "mods/integrated-scripting.pw.toml"
-hash = "cff35abd21991a2f6d6c71632ddbb6633bb0affc42f590a2036eb59da7595df1"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.pw.toml"
-hash = "5919e1aeedde26b6cb5edc1585756df79f7f4dbd05fe1d4082d9390e62d2322d"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "71b3f472ba4dcb3c456451ff0b78dbc9431a8340ef5f5beb4b90b6737f2eaf8a"
 metafile = true
 
 [[files]]
