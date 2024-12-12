@@ -450,6 +450,11 @@ hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "1bc5457c81fd6db2f13432a16682d8c4177a930b04fd0404368ae0b185c931f9"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies-funnelfix.pw.toml"
 hash = "acd0173457108f91c7000fa15c63f2da19bf072ac4ab01268979cdb22cc4c313"
 metafile = true
