@@ -72,6 +72,11 @@ hash = "c91d2c1a31238bbff9a84b119ecdb77f7673d578c6b68ea324e72c4e65b016a4"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "ef498b46cdf1f30eee10976d1c366f769d39ff01045b53313fcf2ba60f78a45e"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
@@ -136,6 +141,11 @@ hash = "35524f1715e708f12c007193939b1a5b58cc6fadb32af18e840e6fd663f7bd9d"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "a69f6a12d1cbf4eb25ae928796dc96f51c4f26081665c413be35172f1de558b8"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "877bf4fd893cf72c3ca03bd7d6869e38d1a2798731adb4a6a8ccae1714c8380d"
 metafile = true
@@ -143,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
 metafile = true
 
 [[files]]
@@ -275,6 +290,11 @@ hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9a0ad748fc5db8eada0834d48c5101e3b76700031fd304d88176dfaabfeefa20"
 metafile = true
@@ -370,6 +390,11 @@ hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
@@ -447,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/trackwork.pw.toml"
+hash = "b394d88b8a32bb8890eae40ff427bbe76e15796560d9cfbc049e3b01547206cf"
 metafile = true
 
 [[files]]
