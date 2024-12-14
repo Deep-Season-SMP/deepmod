@@ -1,0 +1,7 @@
+name = "vs_eureka_server"
+filename = "vs_eureka_server.json"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/config/valkyrienskies/vs_eureka_server.json"
+hash-format = "sha256"
+hash = "03c029026b83faaa2c61a575a68b220c217d19d868724b459d5c4ae6eecc5811"

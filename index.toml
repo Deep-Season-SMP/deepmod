@@ -37,6 +37,11 @@ hash = "47c7ca5e3505df849a9c17def7b9bd1278e51a5665202443ef323d05fc654851"
 metafile = true
 
 [[files]]
+file = "config/valkyrienskies/vs-eureka-server.pw.toml"
+hash = "2cc3402da7675fdf67412d320756e203a8a495df65c0aad8cf602ff4c2967ef7"
+metafile = true
+
+[[files]]
 file = "config/valkyrienskies/vs_eureka_server.json"
 hash = "56cc120de707f4f3c6321096455265886eaa478ca915d1aafebe4c9e66cb632f"
 
