@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.pw.toml"
-hash = "7d73f2db15649b8882d697683e9ade6fdfda59916111443c2ea8dacc6e3630b3"
+hash = "452af586acf2740c53d134f0dd1d074bee8afd9560993895cebc13d0291cdaab"
 metafile = true
 
 [[files]]
@@ -37,6 +37,10 @@ hash = "47c7ca5e3505df849a9c17def7b9bd1278e51a5665202443ef323d05fc654851"
 metafile = true
 
 [[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "56cc120de707f4f3c6321096455265886eaa478ca915d1aafebe4c9e66cb632f"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
@@ -49,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "51fc6770999b30492643e31053c99069fc0eee276ba6337dfc10e185a3681b8f"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
 metafile = true
 
 [[files]]
@@ -109,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "71ab0d4666048827f35f9660934b97693938c989499a73cd45199eb2a359efb3"
 metafile = true
 
 [[files]]
@@ -260,11 +274,6 @@ hash = "db0409fe7ac15c9641f1b1cbba2d4d03f917457334fce3c99d9599d4caa0a98e"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-village.pw.toml"
-hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
-metafile = true
-
-[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "603325cf98346d90a6b68d79d051ef6993874854117a41b65ba2f30c2a779eaa"
 metafile = true
@@ -287,11 +296,6 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
-metafile = true
-
-[[files]]
-file = "mods/fairy-lights.pw.toml"
-hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
 
 [[files]]
@@ -362,6 +366,26 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "de10d0cf7c0dee792f2a551143b6eba59b6992de85d7df06febb07c7e0f1a6b8"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-electronics.pw.toml"
+hash = "478eed20023435a2b0a607393b41378a5a312d937cdb3cd74a87a59be1207e0f"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-garden.pw.toml"
+hash = "9077e973cccce03738cd0273ce980765c2dde230965581136c07a3b36c5af919"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-lights.pw.toml"
+hash = "692236421deb64f7a4cfda2c5da0c42a1a438a7594cf4d1c45c4955cf65b9a8c"
 metafile = true
 
 [[files]]

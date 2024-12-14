@@ -1,0 +1,13 @@
+name = "MOA DECOR: LIGHTS"
+filename = "MOAdecor LIGHTS 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae5640879cb0b84ba9c70e318ad67609f0f968e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4731965
+project-id = 892530
