@@ -1,0 +1,7 @@
+name = "config"
+filename = "config.txt"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/config/justzoom/config.txt"
+hash-format = "sha256"
+hash = "c5a99eca350741446b7f1fd8cfd19c2a5b4e5bb86d024323176238992e1f5fe3"

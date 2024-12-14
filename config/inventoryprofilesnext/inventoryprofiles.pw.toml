@@ -1,0 +1,7 @@
+name = "inventoryprofiles"
+filename = "inventoryprofiles.json"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/config/inventoryprofilesnext/inventoryprofiles.json"
+hash-format = "sha256"
+hash = "6a0793fc3b219551b3703cee26aa7a8b081add2b88dba363386aaf71a02fd7d4"

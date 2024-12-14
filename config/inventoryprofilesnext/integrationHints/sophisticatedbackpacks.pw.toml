@@ -1,0 +1,7 @@
+name = "sophisticatedbackpacks"
+filename = "sophisticatedbackpacks.json"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/config/inventoryprofilesnext/integrationHints/sophisticatedbackpacks.json"
+hash-format = "sha256"
+hash = "eeecdf36c7f71ba31401af5dcbb4d4093a59e83fada24014cca82bcb7be41af3"
