@@ -409,6 +409,26 @@ hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "36e44fb0f1733ff34861b9ffffbdea3c3795563e4e8d16b608506f295a4a8985"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-electronics.pw.toml"
+hash = "058285866b151d10ff03dc6f2b4c2b525e892017e124bbcdacb81170c4c921c1"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-garden.pw.toml"
+hash = "3789a8059462eb57c02505124ef5b0efa88d8f01560c64663eb5ff1ce93f37c0"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-lights.pw.toml"
+hash = "39ec13c3af67a9c7b8cba0dd48c152fcc84f56ad4c860e91bf33cf5dbdf9b8ee"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "696de7db2aeed8bec1b9a39364dffd9eeef81ea6481b8ef2fb53d30224982f1c"
 metafile = true

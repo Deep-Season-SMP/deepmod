@@ -1,0 +1,7 @@
+name = "moa-decor-lights"
+filename = "MOAdecor LIGHTS 1.20.1.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/mods/MOAdecor%20LIGHTS%201.20.1.jar"
+hash-format = "sha256"
+hash = "a72756a7f776980b836a1e62b60ba8d3a9713776e8ae4a72388ab7042a675cdc"

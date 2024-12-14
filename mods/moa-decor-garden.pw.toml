@@ -1,0 +1,7 @@
+name = "moa-decor-garden"
+filename = "MOAdecor GARDEN 1.20.1.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/mods/MOAdecor%20GARDEN%201.20.1.jar"
+hash-format = "sha256"
+hash = "83b2ebc42833c7c450b2372c996c7ecfa92f4bd975610e11da54a2a1da245b9b"

@@ -1,0 +1,7 @@
+name = "moa-decor-bath"
+filename = "MOAdecor BATH 1.20.6.A.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/mods/MOAdecor%20BATH%201.20.6.A.jar"
+hash-format = "sha256"
+hash = "023969e8f3079ca2bad96d7bdc04f5567be9e0b63b2b8296fa726bc12c42ae08"

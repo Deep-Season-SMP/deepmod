@@ -1,0 +1,7 @@
+name = "moa-decor-electronics"
+filename = "MOAdecor ELECTRONICS 1.20.1.A.jar"
+
+[download]
+url = "https://github.com/Deep-Season-SMP/deepmod/raw/refs/heads/master/mods/MOAdecor%20ELECTRONICS%201.20.1.A.jar"
+hash-format = "sha256"
+hash = "c06dbc86ca456d44a0dbbf5e67a09ef36485e811023edf42fef8325a9f3b19a2"
