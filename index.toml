@@ -409,6 +409,11 @@ hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "1f2a81f4dfce7cf1e09e5c338741c3fb15c2a64ab0b86b2b6ca096daebfd74d3"
+metafile = true
+
+[[files]]
 file = "mods/moa-decor-electronics.pw.toml"
 hash = "058285866b151d10ff03dc6f2b4c2b525e892017e124bbcdacb81170c4c921c1"
 metafile = true
