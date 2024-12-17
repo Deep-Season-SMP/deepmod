@@ -119,6 +119,11 @@ hash = "735631eac59208282e2e9487466ba3c18e42388f1b521b30fc8848a2b47fb229"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7e86388a6163bb02670c1d194f571d71e74d766cb4170975b09e61e821856efb"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "5de504e9e9cc5d45b783b1035d77501d5376804c1e0ef7db29e3800d18b02e60"
 metafile = true
@@ -146,6 +151,16 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "6bc4aa39478b886f8cd3a5d65023af0718234182d55bebd0cce874a3bbabc720"
 metafile = true
 
 [[files]]
@@ -307,6 +322,11 @@ hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
@@ -344,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9a0ad748fc5db8eada0834d48c5101e3b76700031fd304d88176dfaabfeefa20"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "489f0c70d831425c89928450357a48407c33078f69a1c4bda29667b74375a889"
 metafile = true
 
 [[files]]
@@ -424,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
